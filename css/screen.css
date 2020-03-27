@@ -192,11 +192,11 @@ a:focus {
 }
 
 /* size modifiers */
-@media (min-width: 768px){
-    html{
-        font-size: 20px;
-        line-height: 1.6;
-    }
+@media (min-width: 768px) {
+  html {
+    font-size: 20px;
+    line-height: 1.6;
+  }
 }
 
 .o-row--lg {
@@ -216,8 +216,8 @@ a:focus {
 }
 h1,
 h2,
-h3{
-    font-weight: 200;
+h3 {
+  font-weight: 200;
 }
 
 /*
@@ -387,7 +387,6 @@ h3{
 .u-max-width-none {
   max-width: none !important;
 }
-
 
 /*
     Utility: Flex
