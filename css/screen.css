@@ -250,6 +250,7 @@ h3 {
 }
 
 .o-layout__item {
+  /* width: 100%; */
   flex-basis: 100%;
 }
 
