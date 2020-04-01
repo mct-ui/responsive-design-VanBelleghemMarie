@@ -435,6 +435,28 @@ h3 {
   color: #6C6C75;
 }
 
+/*
+    Component: header
+    ---
+    Main header of the website
+*/
+
+.c-header__nav {
+  display: none;
+}
+
+@media (min-width: 992px) {
+    .c-header {
+      display: flex;
+      justify-content: center;
+    }
+
+    .c-header__nav {
+      display: block;
+    }
+}
+
+
 
 
 /*------------------------------------*\
